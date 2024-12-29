@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929065296091",
+    "project_id": "anatestfire",
+    "storage_bucket": "anatestfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929065296091:android:043d0e6c7bd6e84a696cfe",
+        "android_client_info": {
+          "package_name": "com.example.anatestfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRVF5d-W_fbiRgS1GkskpkC7K5siMpXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
